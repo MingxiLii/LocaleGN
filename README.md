@@ -19,7 +19,7 @@ This is the original pytorch implementation of LocaleGN in the following paper:
 - Download ST data from link provided by [Seattle-Loop-Data](https://github.com/zhiyongc/Seattle-Loop-Data).   
 
 ## Contact 
-- [Email](mingxi-chloe.li@connect.polyu.hk).
+- Email: mingxi-chloe.li@connect.polyu.hk
 
 
 
