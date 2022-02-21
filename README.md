@@ -16,7 +16,8 @@ This is the original pytorch implementation of LocaleGN in the following paper:
 
 ## Data Preparation
 
-### Step1: Download METR-LA, PEMS-BAY, PEMS04, PEMS07 and PEMS08 data from links provided by [StemGNN](https://github.com/microsoft/StemGNN). Download ST data from link provided by https://github.com/zhiyongc/Seattle-Loop-Data           
+### Step1: Download METR-LA, PEMS-BAY, PEMS04, PEMS07 and PEMS08 data from links provided by [StemGNN](https://github.com/microsoft/StemGNN). 
+### Download ST data from link provided by [Seattle-Loop-Data](https://github.com/zhiyongc/Seattle-Loop-Data).           
 
 ### Step2: Process raw data 
 
