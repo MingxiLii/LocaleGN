@@ -10,7 +10,7 @@ This is the original pytorch implementation of LocaleGN in the following paper:
 </p>
 
 ## Requirements
-- python 3
+- Python 3
 - see `requirements.txt`
 
 
