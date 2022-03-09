@@ -9,10 +9,6 @@ This is the original pytorch implementation of LocaleGN in the following paper:
   <img width="350" height="400" src=LocaleGN_diagram.png>
 </p>
 
-## Requirements
-- Python 3
-- see `requirements.txt`
-
 
 ## Data Preparation
 - Download METR-LA, PEMS-BAY, PEMS04, PEMS07 and PEMS08 data from links provided by [StemGNN](https://github.com/microsoft/StemGNN). 
